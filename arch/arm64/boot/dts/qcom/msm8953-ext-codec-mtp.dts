@@ -69,17 +69,21 @@
 	status = "okay";
 };
 
+/*
 &wcd9xxx_intc {
 	status = "okay";
 };
+*/
 
 &clock_audio {
 	status = "okay";
 };
 
+/*
 &wcd9335 {
 	status = "okay";
 };
+*/
 
 &cdc_us_euro_sw {
 	status = "okay";
@@ -89,6 +93,7 @@
 	status = "okay";
 };
 
+/*
 &wcd_rst_gpio {
 	status = "okay";
 };
@@ -97,3 +102,4 @@
 	qcom,model = "msm8953-tasha-snd-card";
 	status = "okay";
 };
+*/

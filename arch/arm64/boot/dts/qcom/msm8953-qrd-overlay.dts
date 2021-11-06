@@ -65,6 +65,7 @@
 	status = "okay";
 };
 
+/*
 &ext_codec {
 	qcom,model = "msm8953-sku3-tasha-snd-card";
 	status = "okay";
@@ -91,3 +92,4 @@
 	qcom,wsa-devs = <&wsa881x_211>, <&wsa881x_213>;
 	qcom,wsa-aux-dev-prefix = "SpkrLeft", "SpkrLeft";
 };
+*/
